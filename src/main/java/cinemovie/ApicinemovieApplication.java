@@ -10,4 +10,5 @@ public class ApicinemovieApplication {
 		SpringApplication.run(ApicinemovieApplication.class, args);
 	}
 
+	
 }
